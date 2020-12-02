@@ -1,0 +1,85 @@
+.background-image {
+    background: no-repeat center center / cover url(../../images/background-image.jpg);
+    min-height: 95vh;
+}
+.ban {
+    background: no-repeat center center / cover url(../../images/ban.jpg);
+    min-height: 95vh;
+}
+.real-estate-agent-handing-house-key-client {
+    background: no-repeat center center / cover url(../../images/real-estate-agent-handing-house-key-client.jpg);
+    min-height: 95vh;
+}
+.ryan-stone-skykomish-river {
+    background: no-repeat center center / cover url(../../images/ryan-stone-skykomish-river.jpg);
+    min-height: 95vh;
+}
+.SeaSunset {
+    background: no-repeat center center / cover url(../../images/SeaSunset.jpg);
+    min-height: 95vh;
+}
+.turkishairline {
+    background: no-repeat center center / cover url(../../images/turkishairline.jpg);
+    min-height: 95vh;
+}
+.villa-house-model-key-drawing-retro-desktop-real-estate-sale-concept {
+    background: no-repeat center center / cover url(../../images/villa-house-model-key-drawing-retro-desktop-real-estate-sale-concept.jpg);
+    min-height: 95vh;
+}
+.city-3378773_1920 {
+    background: no-repeat center center / cover url(../../images/city-3378773_1920.jpg);
+    min-height: 95vh;
+
+}
+.condominium-690086_1920 {
+    background: no-repeat center center / cover url(../../images/condominium-690086_1920.jpg);
+    min-height: 95vh;
+
+}
+.home-search-4503735_1920 {
+    background: no-repeat center center / cover url(../../images/home-search-4503735_1920.jpg);
+    min-height: 95vh;
+
+}
+.house-2003068_1280 {
+    background: no-repeat center center / cover url(../../images/house-2003068_1280.png);
+    min-height: 95vh;
+
+}
+.house-2368389_1920 {
+    background: no-repeat center center / cover url(../../images/house-2368389_1920.jpg);
+    min-height: 95vh;
+
+}
+.house-4101306_1920 {
+    background: no-repeat center center / cover url(../../images/house-4101306_1920.jpg);
+    min-height: 95vh;
+
+}
+.skyscrapers-450793_1920 {
+    background: no-repeat center center / cover url(../../images/skyscrapers-450793_1920.jpg);
+    min-height: 95vh;
+
+}
+
+@media (max-width: 768px) {
+    .row-1st .form-control{
+        border: 1px solid #103456ab;
+    }
+    .main-form {
+        margin-right: 1rem; 
+        width: 95%;
+    }
+    .logo {
+        font-size: 2rem;
+        text-align: center;
+    }
+    .logo a {
+        text-decoration: none;
+        color: #000;
+        font-weight: 600;
+        text-shadow: 0px 0px 2px #103456;
+        letter-spacing: .35rem;
+        padding: .4rem;
+    }
+}
